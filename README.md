@@ -138,3 +138,6 @@ PostgreSQL
 HTTPS
 
 Docker (اختیاری)
+
+npm init -y
+npm install tailwindcss @tailwindcss/cli
